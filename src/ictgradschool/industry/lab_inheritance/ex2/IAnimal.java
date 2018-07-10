@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab05.ex02;
+package ictgradschool.industry.lab_inheritance.ex2;
 
 /**
  * An interface intended to be implemented by animals, who have legs, a name,
